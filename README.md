@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a student who's passionate about computer science and creating a positive impact in the world. I'm currently learning data science and machin learning, as well as polishing my web development skills so that I can get to working on some real world projects fast!
+
+
 <!--
 **SushiOnToast/SushiOnToast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
