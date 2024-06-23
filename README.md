@@ -22,7 +22,7 @@
 
 ### 👩‍💻 About Me :
 
-I'm a High School student who's passionate about computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and creating a positive impact in the world 💙
+I'm a student who's passionate about computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and creating a positive impact in the world 💙
 * Currently learning data science and machine learning
 * Polishing up my web development skills so that I can get working on some real world projects fast ⚡
 * I Solve challenges on Frontend Mentor in my free time
