@@ -22,7 +22,7 @@
 
 ### 👩‍💻 About Me :
 
-I'm a student who's passionate about computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and loves trying new things 💙 Currently, I've been participating in game jams and polishing up my skills!
+I'm a student who's passionate about computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and loves trying new things. Currently, I've been working on a bunch of projects and polishing up my skills!
 
 
 ---
